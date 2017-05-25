@@ -51,10 +51,7 @@ carpetas de la solución.
 - Cliente
 Del lado de los clientes, mediante un Dockerfile se automatiza la configuración del mismo, se
 sigue la misma lógica del mirror, pero con la configuración específica del cliente. A este se le
-debe agregar la llave pública mediante gpp, para la autenticación con el mirror, se define
-
-
-también un Entrypoint.sh el cual modifica el sources.list y realiza una actualización, la cual debe
+debe agregar la llave pública mediante gpp, para la autenticación con el mirror, se define también un Entrypoint.sh el cual modifica el sources.list y realiza una actualización, la cual debe
 tener como servidor el mirror creado.
 
 # Pruebas de funcionamiento

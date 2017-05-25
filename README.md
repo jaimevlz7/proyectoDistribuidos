@@ -46,7 +46,7 @@ como también un archivo con la configuración propia para Aptly (aptly.conf). O
 configuración automatizado es el publish_snapshot.sh que contiene la configuración necesaria
 para la publicación del snapshot del mirror. A continuación se presenta la estructura de
 carpetas de la solución.
-<img src="imagenes/tree.PNG"/>
+<img src="imagenes/tree.PNG" width=600/>
 
 - Cliente
 Del lado de los clientes, mediante un Dockerfile se automatiza la configuración del mismo, se

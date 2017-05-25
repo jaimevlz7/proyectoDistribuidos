@@ -1,7 +1,7 @@
-## Informe proyecto final
-## Sistemas Distribuidos
-## Cristian González - Juan José Pizarro - Jaime Vélez
-## Universidad Icesi
+#### Informe proyecto final
+#### Sistemas Distribuidos
+#### Cristian González - Juan José Pizarro - Jaime Vélez
+#### Universidad Icesi
 
 
 ## Objetivos
